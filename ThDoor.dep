@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>352810879</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\analog.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\eeprom.lst</file>
+      <file>$PROJ_DIR$\hw.h</file>
+      <file>$PROJ_DIR$\__RCSwitch.h</file>
+      <file>$PROJ_DIR$\eeprom.cpp</file>
+      <file>$PROJ_DIR$\EletroValvula.cpp</file>
+      <file>$PROJ_DIR$\EletroValvula.h</file>
+      <file>$PROJ_DIR$\main.cpp</file>
+      <file>$PROJ_DIR$\hw.cpp</file>
+      <file>$PROJ_DIR$\eeprom.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hw.o</file>
+      <file>$PROJ_DIR$\analog.h</file>
+      <file>$PROJ_DIR$\__RCSwitch.c</file>
+      <file>$PROJ_DIR$\analog.cpp</file>
+      <file>$PROJ_DIR$\Debug\Obj\motor.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\__RCSwitch.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\EletroValvula.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\hw.lst</file>
+      <file>$PROJ_DIR$\Debug\List\EletroValvula.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\__RCSwitch.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\EletroValvula.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\tempo.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\List\tempo.lst</file>
+      <file>$PROJ_DIR$\terminal.h</file>
+      <file>$PROJ_DIR$\Debug\List\motor.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\analog.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\EletroValvula.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\eeprom.pbi</file>
+      <file>$PROJ_DIR$\terminal.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\List\analog.lst</file>
+      <file>$TOOLKIT_DIR$\inc\io_macros.h</file>
+      <file>$PROJ_DIR$\motor.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tempo.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\eeprom.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\inttypes.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\terminal.o</file>
+      <file>$PROJ_DIR$\parametro.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\ThDoor.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\parametro.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\List\__RCSwitch.lst</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$PROJ_DIR$\parametro.cpp</file>
+      <file>$PROJ_DIR$\Debug\Obj\parametro.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\__RCSwitch.pbi</file>
+      <file>$PROJ_DIR$\motor.h</file>
+      <file>$PROJ_DIR$\tempo.cpp</file>
+      <file>$PROJ_DIR$\tempo.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\motor.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\tempo.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Exe\ThDoor.srec</file>
+      <file>$PROJ_DIR$\Debug\List\main.lst</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hw.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\config\lnkstm8s003k3.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\hw.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\motor.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\ThDoor.pbd</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\eeprom.o</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\analog.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\List\ThDoor.map</file>
+      <file>$TOOLKIT_DIR$\lib\dbgstm8smd.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smn.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\terminal.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\terminal.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\parametro.o</file>
+      <file>$TOOLKIT_DIR$\inc\iostm8s003k3.h</file>
+      <file>$PROJ_DIR$\Debug\List\parametro.lst</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 44 72</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\eeprom.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 1 68</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 61 40 74 75 9 23 67 33 37 77 80</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 80 35 40 61 23 67 74 75 37 77 33 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\EletroValvula.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 19 21</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67 11 23 61 6 52 74 75 2 54 9 42 35 40 33 37 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 80 35 2 40 61 23 67 74 75 37 77 33 6 54 11 9 52 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 60 58</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 2 15 47 9 77 40 54 42 67 70 50 29 3 6 11 52 35 55 80 74 33 75 37 23</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 80 35 70 61 67 74 75 37 77 33 55 15 50 47 29 40 23 3 2 6 54 11 9 52 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hw.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 18 10</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74 75 35 40 23 61 2 67 33 37 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 80 35 2 40 61 23 67 74 75 37 77 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\__RCSwitch.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 46 20</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 40 37 67 15 54 47 80 35 33 2 70 50 29 55 74 75 77 3 23</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 3 47 80 35 70 61 67 74 75 37 77 33 55 15 50 29 40 23 2 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\analog.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 34 28</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 80 11</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 80 35 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\terminal.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 25 80</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 80 35 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\motor.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 26 14</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 52 80</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 80 35 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\ThDoor.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 63 20 28 68 21 10 58 14 79 57 69 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\parametro.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 81 79</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 74 77 9 42 35 40 33 67 80 23 75 37</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 80 35 42 9 40 61 23 67 74 75 37 77 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\tempo.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 24 57</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 67 3 80 54 23 33 40 47 61 77 2 35 74 75 15 70 50 29 55</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 80 35 40 61 23 67 74 75 37 77 33 54 2 3 47 70 55 15 50 29</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\hw.h</file>
+      <file>$PROJ_DIR$\eeprom.cpp</file>
+      <file>$PROJ_DIR$\main.cpp</file>
+      <file>$PROJ_DIR$\hw.cpp</file>
+      <file>$PROJ_DIR$\eeprom.h</file>
+      <file>$PROJ_DIR$\analog.h</file>
+      <file>$PROJ_DIR$\analog.cpp</file>
+      <file>$PROJ_DIR$\Release\Obj\eeprom.o</file>
+      <file>$PROJ_DIR$\Release\Obj\terminal.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\analog.o</file>
+      <file>$PROJ_DIR$\Release\Obj\hw.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\analog.pbi</file>
+      <file>$PROJ_DIR$\Release\List\ThDoor.map</file>
+      <file>$PROJ_DIR$\Release\Obj\hw.o</file>
+      <file>$PROJ_DIR$\Release\Exe\ThDoor.bin</file>
+      <file>$PROJ_DIR$\Release\Obj\eeprom.pbi</file>
+      <file>$TOOLKIT_DIR$\config\lnkstm8.icf</file>
+      <file>$PROJ_DIR$\Release\Exe\ThDoor.out</file>
+      <file>$PROJ_DIR$\Release\Obj\terminal.o</file>
+      <file>$PROJ_DIR$\Release\Obj\tempo.o</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\tempo.pbi</file>
+      <file>$PROJ_DIR$\terminal.h</file>
+      <file>$TOOLKIT_DIR$\lib\dbgstm8smn.a</file>
+      <file>$PROJ_DIR$\terminal.cpp</file>
+      <file>$PROJ_DIR$\Release\Obj\main.o</file>
+      <file>$TOOLKIT_DIR$\inc\io_macros.h</file>
+      <file>$PROJ_DIR$\tempo.cpp</file>
+      <file>$PROJ_DIR$\tempo.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
+      <file>$TOOLKIT_DIR$\inc\iostm8s003k3.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 12 17</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\eeprom.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 30 4</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 30 26 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 30 0 22 28 5 4</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 30 26 0 22 28 5 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hw.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 30 0</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 30 26 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\analog.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 30 5</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 30 26 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Exe\ThDoor.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 16 9 7 13 25 19 18 29 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\terminal.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 30 22</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 30 26 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\tempo.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 30 28</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 30 26 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

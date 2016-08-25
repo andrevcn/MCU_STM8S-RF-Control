@@ -1,0 +1,150 @@
+Building configuration: ThDoor - Debug
+Updating build tree...
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\analog.o
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\eeprom.o
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\hw.o
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\main.o
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\motor.o
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\parametro.o
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\tempo.o
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\terminal.o
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\analog.pbi
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\eeprom.pbi
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\hw.pbi
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\main.pbi
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\motor.pbi
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\parametro.pbi
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\tempo.pbi
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\terminal.pbi
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\List\ThDoor.map
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Exe\ThDoor.out
+C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\ThDoor.pbd
+
+19  file(s) deleted.
+Updating build tree...
+
+eeprom.cpp 
+iccstm8.exe C:\Users\andre.gandolfi\Documents\stm8\ThDoor\eeprom.cpp -e -Ol --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_cross_call --debug --code_model small --data_model medium -o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj --dlib_config C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\LIB\dlstm8smn.h --eec++ --vregs 16
+
+   IAR C/C++ Compiler V2.20.1.176 for STM8
+   Copyright 2010-2015 IAR Systems AB.
+   Standalone license - IAR Embedded Workbench for STMicroelectronics STM8, 8K KickStart Edition 2.20
+ 
+ 244 bytes of CODE memory
+   0 bytes of DATA memory (+ 2 bytes shared)
+
+Errors: none
+Warnings: none
+
+analog.cpp 
+iccstm8.exe C:\Users\andre.gandolfi\Documents\stm8\ThDoor\analog.cpp -e -Ol --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_cross_call --debug --code_model small --data_model medium -o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj --dlib_config C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\LIB\dlstm8smn.h --eec++ --vregs 16
+
+   IAR C/C++ Compiler V2.20.1.176 for STM8
+   Copyright 2010-2015 IAR Systems AB.
+   Standalone license - IAR Embedded Workbench for STMicroelectronics STM8, 8K KickStart Edition 2.20
+ 
+ 107 bytes of CODE memory
+   1 byte  of DATA memory (+ 3 bytes shared)
+
+Errors: none
+Warnings: none
+
+hw.cpp 
+iccstm8.exe C:\Users\andre.gandolfi\Documents\stm8\ThDoor\hw.cpp -e -Ol --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_cross_call --debug --code_model small --data_model medium -o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj --dlib_config C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\LIB\dlstm8smn.h --eec++ --vregs 16
+
+   IAR C/C++ Compiler V2.20.1.176 for STM8
+   Copyright 2010-2015 IAR Systems AB.
+   Standalone license - IAR Embedded Workbench for STMicroelectronics STM8, 8K KickStart Edition 2.20
+ 
+ 417 bytes of CODE memory
+   8 bytes of DATA memory (+ 17 bytes shared)
+
+Errors: none
+Warnings: none
+
+main.cpp 
+iccstm8.exe C:\Users\andre.gandolfi\Documents\stm8\ThDoor\main.cpp -e -Ol --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_cross_call --debug --code_model small --data_model medium -o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj --dlib_config C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\LIB\dlstm8smn.h --eec++ --vregs 16
+
+   IAR C/C++ Compiler V2.20.1.176 for STM8
+   Copyright 2010-2015 IAR Systems AB.
+   Standalone license - IAR Embedded Workbench for STMicroelectronics STM8, 8K KickStart Edition 2.20
+ 
+ 1 533 bytes of CODE  memory
+   289 bytes of CONST memory
+    12 bytes of DATA  memory (+ 5 bytes shared)
+
+Errors: none
+Warnings: none
+
+motor.cpp 
+iccstm8.exe C:\Users\andre.gandolfi\Documents\stm8\ThDoor\motor.cpp -e -Ol --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_cross_call --debug --code_model small --data_model medium -o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj --dlib_config C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\LIB\dlstm8smn.h --eec++ --vregs 16
+
+   IAR C/C++ Compiler V2.20.1.176 for STM8
+   Copyright 2010-2015 IAR Systems AB.
+   Standalone license - IAR Embedded Workbench for STMicroelectronics STM8, 8K KickStart Edition 2.20
+ 
+ 2 308 bytes of CODE  memory
+     6 bytes of CONST memory
+    52 bytes of DATA  memory (+ 21 bytes shared)
+
+Errors: none
+Warnings: none
+
+parametro.cpp 
+iccstm8.exe C:\Users\andre.gandolfi\Documents\stm8\ThDoor\parametro.cpp -e -Ol --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_cross_call --debug --code_model small --data_model medium -o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj --dlib_config C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\LIB\dlstm8smn.h --eec++ --vregs 16
+
+   IAR C/C++ Compiler V2.20.1.176 for STM8
+   Copyright 2010-2015 IAR Systems AB.
+   Standalone license - IAR Embedded Workbench for STMicroelectronics STM8, 8K KickStart Edition 2.20
+ 
+ 1 033 bytes of CODE  memory
+     2 bytes of CONST memory
+    22 bytes of DATA  memory (+ 2 bytes shared)
+
+Errors: none
+Warnings: none
+
+tempo.cpp 
+iccstm8.exe C:\Users\andre.gandolfi\Documents\stm8\ThDoor\tempo.cpp -e -Ol --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_cross_call --debug --code_model small --data_model medium -o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj --dlib_config C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\LIB\dlstm8smn.h --eec++ --vregs 16
+
+   IAR C/C++ Compiler V2.20.1.176 for STM8
+   Copyright 2010-2015 IAR Systems AB.
+   Standalone license - IAR Embedded Workbench for STMicroelectronics STM8, 8K KickStart Edition 2.20
+ 
+ 218 bytes of CODE memory
+   7 bytes of DATA memory (+ 17 bytes shared)
+
+Errors: none
+Warnings: none
+
+terminal.cpp 
+iccstm8.exe C:\Users\andre.gandolfi\Documents\stm8\ThDoor\terminal.cpp -e -Ol --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_cross_call --debug --code_model small --data_model medium -o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj --dlib_config C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\LIB\dlstm8smn.h --eec++ --vregs 16
+
+   IAR C/C++ Compiler V2.20.1.176 for STM8
+   Copyright 2010-2015 IAR Systems AB.
+   Standalone license - IAR Embedded Workbench for STMicroelectronics STM8, 8K KickStart Edition 2.20
+ 
+ 693 bytes of CODE  memory
+  62 bytes of CONST memory
+  75 bytes of DATA  memory (+ 6 bytes shared)
+
+Errors: none
+Warnings: none
+
+Linking
+ilinkstm8.exe C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\analog.o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\eeprom.o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\hw.o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\main.o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\motor.o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\parametro.o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\tempo.o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Obj\terminal.o --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb -o C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\Exe\ThDoor.out --map C:\Users\andre.gandolfi\Documents\stm8\ThDoor\Debug\List\ThDoor.map --config C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\config\lnkstm8s003k3.icf --config_def _CSTACK_SIZE=0x200 --config_def _HEAP_SIZE=0x1000 --entry __iar_program_start --debug_lib
+
+   IAR ELF Linker V2.20.1.176 for STM8
+   Copyright 2010-2015 IAR Systems AB.
+
+  6 910 bytes of readonly  code memory
+    520 bytes of readonly  data memory
+    692 bytes of readwrite data memory (+ 63 absolute)
+
+Errors: none
+Warnings: none
+
+Link time:   0.05 (CPU)   0.06 (elapsed)
+
+Total number of errors: 0
+Total number of warnings: 0
